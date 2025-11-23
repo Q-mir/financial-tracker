@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y3wN6do2Dh4=",
+  "dgSpecHash": "4TXNzT06XRs=",
   "success": true,
-  "projectFilePath": "C:\\diplom\\backend\\trackerServer\\financialTracker\\trackerServer.csproj",
+  "projectFilePath": "C:\\Users\\swank\\source\\repos\\diplom\\backend\\trackerServer\\financialTracker\\trackerServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\swank\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
     "C:\\Users\\swank\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
