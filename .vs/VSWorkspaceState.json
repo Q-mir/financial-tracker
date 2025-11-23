@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\backend",
+    "\\backend\\trackerServer",
+    "\\backend\\trackerServer\\financialTracker"
   ],
+  "SelectedNode": "\\.github",
   "PreviewInSolutionExplorer": false
 }
